@@ -1,4 +1,6 @@
 # ADBMS_EXP1
 ADBMS EXPERIMENT 1 BYTEXL SUBMITION
-<img width="1133" height="671" alt="Screenshot 2025-08-13 141249" src="https://github.com/user-attachments/assets/d976ba1e-7a8a-47f8-95e2-e0f58a5649da" />
-<img width="1570" height="433" alt="Screenshot 2025-08-13 141312" src="https://github.com/user-attachments/assets/5613b5aa-9e78-4339-bf14-45630b7b3734" />
+<img width="1918" height="867" alt="Screenshot 2025-08-06 191743" src="https://github.com/user-attachments/assets/253cfae7-cb33-4aa1-b24c-ae2eb5c3f7c5" />
+<img width="1919" height="790" alt="Screenshot 2025-08-06 191649" src="https://github.com/user-attachments/assets/d72e2418-57a2-4cbe-a196-c0f367364958" />
+<img width="1916" height="858" alt="Screenshot 2025-08-06 191715" src="https://github.com/user-attachments/assets/c9f72ffd-fd4c-443e-b440-9f7dbca73cc5" />
+
